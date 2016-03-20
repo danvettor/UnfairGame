@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 069f3911e254ded43acbe4b5995ab92c
+timeCreated: 1458435048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WhiteBunny_0
+    21300002: WhiteBunny_1
+    21300004: WhiteBunny_2
+    21300006: WhiteBunny_3
+    21300008: WhiteBunny_4
+    21300010: WhiteBunny_5
+    21300012: WhiteBunny_6
+    21300014: WhiteBunny_7
+    21300016: WhiteBunny_8
+    21300018: WhiteBunny_9
+    21300020: WhiteBunny_10
+    21300022: WhiteBunny_11
+    21300024: WhiteBunny_12
+    21300026: WhiteBunny_13
+    21300028: WhiteBunny_14
+    21300030: WhiteBunny_15
+    21300032: WhiteBunny_16
+    21300034: WhiteBunny_17
+    21300036: WhiteBunny_18
+    21300038: WhiteBunny_19
+    21300040: WhiteBunny_20
+    21300042: WhiteBunny_21
+    21300044: WhiteBunny_22
+    21300046: WhiteBunny_23
+    21300048: WhiteBunny_24
+    21300050: WhiteBunny_25
+    21300052: WhiteBunny_26
+    21300054: WhiteBunny_27
+    21300056: WhiteBunny_28
+    21300058: WhiteBunny_29
+    21300060: WhiteBunny_30
+    21300062: WhiteBunny_31
+    21300064: WhiteBunny_32
+    21300066: WhiteBunny_33
+    21300068: WhiteBunny_34
+    21300070: WhiteBunny_35
+    21300072: WhiteBunny_36
+    21300074: WhiteBunny_37
+    21300076: WhiteBunny_38
+    21300078: WhiteBunny_39
+    21300080: WhiteBunny_40
+    21300082: WhiteBunny_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WhiteBunny_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 307
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 316
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 316
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 313
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 313
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 313
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 248
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 248
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 245
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 240
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 242
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 242
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 242
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 242
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 173
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 179
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 179
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 179
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 176
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 176
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 176
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 84
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 83
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 96
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 96
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 85
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 17
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 17
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 12
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 12
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WhiteBunny_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 12
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
